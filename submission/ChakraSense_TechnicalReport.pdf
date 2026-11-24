@@ -1,0 +1,131 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4282 >>
+stream
+0.071 0.200 0.271 rg 0 752 595 90 re f
+BT /F2 10 Tf 0.467 0.843 0.773 rg 1 0 0 1 42 807 Tm (CHAKRASENSE    /    RESEARCH MILESTONE) Tj ET
+BT /F2 23 Tf 1.000 1.000 1.000 rg 1 0 0 1 42 772 Tm (24-hour cyclone intensity forecasting) Tj ET
+0.12 0.48 0.47 RG 1.5 w 42 44 m 552 44 l S
+BT /F1 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 42 27 Tm (Historical North Indian Ocean cyclone forecasts) Tj ET
+BT /F2 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 440 27 Tm (25 NOV 2026     /     1) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 719 Tm (Research question) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 694 Tm (Can a model estimate the next day's wind more accurately than assuming the storm holds) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 678 Tm (its current intensity? Can it detect a rapid increase of at least 30 knots? Each) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 662 Tm (question has a separate output and evaluation measure.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 634 Tm (What was built) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 609 Tm (Two CPU pipelines compare a wind regression forecast with persistence and estimate a) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 593 Tm (rapid-intensification score. The satellite pipeline uses nine infrared and water-vapour) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 577 Tm (frames and wind history. The track pipeline uses original wind reports, location,) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 561 Tm (pressure and distance to land.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 533 Tm (Results on later storms) Tj ET
+0.071 0.200 0.271 rg 42 501 510 29 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 50 510 Tm (Model and test) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 227 510 Tm (Windows) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 299 510 Tm (Wind MAE) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 381 510 Tm (RI caught) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 462 510 Tm (False flags) Tj ET
+0.937 0.965 0.957 rg 42 472 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 481 Tm (Archived V3 / 2015) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 227 481 Tm (150) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 299 481 Tm (n/a) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 381 481 Tm (0 of 13) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 462 481 Tm (1) Tj ET
+0.882 0.933 0.925 rg 42 443 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 452 Tm (Satellite candidate / 2015) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 227 452 Tm (150) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 299 452 Tm (14.62 kt) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 381 452 Tm (0 of 13) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 462 452 Tm (3) Tj ET
+0.937 0.965 0.957 rg 42 414 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 423 Tm (Wind and track / 2020-25) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 227 423 Tm (876) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 299 423 Tm (9.05 kt) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 381 423 Tm (12 of 50) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 462 423 Tm (45) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 378 Tm (What the results support) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 353 Tm (In 2020-2025, holding wind constant gave 11.76 kt average absolute error. The) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 337 Tm (wind-and-track model reduced that error by 2.71 kt, about 23%. It missed 38 of 50) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 321 Tm (rapid-intensification windows. The two tests cover different storms and cannot isolate) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 305 Tm (the effect of adding satellite imagery.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 277 Tm (Worked forecast) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 252 Tm (At 15:00 UTC on 16 May 2020, storm 2020136N10088 had 40 kt winds. The track model) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 236 Tm (estimated 58.8 kt for the next day. The recorded wind was 75 kt. Its separate RI score) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 220 Tm (was 0.170, above the fixed threshold of 0.16.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4315 >>
+stream
+0.071 0.200 0.271 rg 0 752 595 90 re f
+BT /F2 10 Tf 0.467 0.843 0.773 rg 1 0 0 1 42 807 Tm (CHAKRASENSE    /    RESEARCH MILESTONE) Tj ET
+BT /F2 23 Tf 1.000 1.000 1.000 rg 1 0 0 1 42 772 Tm (Training, testing and limitations) Tj ET
+0.12 0.48 0.47 RG 1.5 w 42 44 m 552 44 l S
+BT /F1 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 42 27 Tm (Historical North Indian Ocean cyclone forecasts) Tj ET
+BT /F2 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 440 27 Tm (25 NOV 2026     /     2) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 719 Tm (Data and separation) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 694 Tm (For the satellite experiment, 1,505 windows from 88 storms were reconstructed from the) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 678 Tm (backup and checked against timestamps, frame identities and exact wind targets.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 662 Tm (Training covered 1,265 windows and 77 storms. Development covered 90 windows in 2014.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 646 Tm (The 2015 test covered 150 windows from seven storms.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 618 Tm (The track experiment used 2,997 training windows from 250 storms in 1982-2015.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 602 Tm (Selection used 818 windows from 40 storms in 2016-2019. The frozen model was scored on) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 586 Tm (876 windows from 57 storms in 2020-2025.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 558 Tm (Models and selection) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 533 Tm (Python, NumPy, pandas and scikit-learn implement the workflow. Ridge and histogram) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 517 Tm (gradient boosting estimate wind change. Logistic regression and boosting estimate RI.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 501 Tm (Linear, boosted and equal-weight candidates were compared. Both paths selected averaged) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 485 Tm (wind regressors and boosted RI classification.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 457 Tm (Wind selection minimized MAE. RI selection maximized average precision, then F1 on a) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 441 Tm (threshold grid. Satellite selection used four training folds grouped by storm. Track) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 425 Tm (selection used development years. The fixed thresholds were 0.23 and 0.16 respectively.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 409 Tm (Forecasting uses numerical inputs and trained estimators. No inference prompt is used.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 381 Tm (Error analysis) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 356 Tm (The track test produced 12 hits, 45 false positives, 38 misses and 781 true negatives.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 340 Tm (Precision was 21.1%, recall 24.0%, and three of eight RI-positive storms had a) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 324 Tm (correctly flagged window. Average precision was 0.170 and Brier score was 0.0523.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 308 Tm (Windows from the same storm overlap.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 280 Tm (Next evaluation) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 255 Tm (Keep a fresh set of storms for the next revision. Test humidity, shear and sea) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 239 Tm (temperature using values demonstrably available at forecast issue time. Compare with) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 223 Tm (official historical forecasts and document performance by basin subregion and) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 207 Tm (intensity.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 179 Tm (Data sources) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 154 Tm (NOAA IBTrACS v04r01, doi.org/10.25921/82ty-9e16. NOAA HURSAT-B1,) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 138 Tm (ncei.noaa.gov/products/hurricane-satellite-data. The repository's Results.md documents) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 122 Tm (the input checksum and the original notebook baseline.) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000004736 00000 n 
+0000004872 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9239
+%%EOF
