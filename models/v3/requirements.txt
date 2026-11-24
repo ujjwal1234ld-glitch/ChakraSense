@@ -1,0 +1,6 @@
+# Known model serialization dependency
+scikit-learn==1.6.1
+# Full environment still requires verification
+numpy
+pandas
+joblib

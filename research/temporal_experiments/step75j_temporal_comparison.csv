@@ -1,0 +1,4 @@
+Method,TP,FP,FN,Precision,Recall,F1,RI_Storms_Detected,Non_RI_Storms_Alerted
+Regularized,39,115,50,0.2532,0.4382,0.321,11,17
+Max_Ensemble,43,131,46,0.2471,0.4831,0.327,12,19
+Temporal_6h,42,116,47,0.2658,0.4719,0.3401,12,17

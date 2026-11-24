@@ -1,0 +1,9 @@
+{
+  "selected_method": "Temporal_6h",
+  "baseline_method": "Regularized",
+  "selection_basis": "Four-fold storm-grouped CV",
+  "baseline_f1": 0.32098765432098764,
+  "selected_f1": 0.340080971659919,
+  "holdout_test_evaluated": false,
+  "status": "Pre-test selection checkpoint"
+}
