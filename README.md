@@ -8,6 +8,12 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-red)
 
+## November 2026 milestone
+
+[Submission documents and form answers](submission/) · [Historical replay and model instructions](forecast/) · [Measured results](submission/Results.md)
+
+The updated wind-and-track experiment evaluated 876 later windows from 57 storms. Mean absolute wind error was 9.05 kt against 11.76 kt for persistence. It caught 12 of 50 rapid-intensification windows and raised 45 false flags. The archived satellite V3 test detected 0 of 13 and raised one false flag. The V3 development notes below describe the earlier project stage.
+
 ## Overview
 
 ChakraSense is an experimental artificial intelligence
