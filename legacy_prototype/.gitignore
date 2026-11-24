@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+config.local.json
+config.json
+**/mdapi/
+data/raw/
+data/processed/
+artifacts/real/
+local_python.txt
+*.h5
+*.hdf5
