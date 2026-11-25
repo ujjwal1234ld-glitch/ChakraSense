@@ -1,0 +1,64 @@
+{
+  "wind": "equal blend",
+  "risk": "boosted",
+  "threshold": 0.16,
+  "train_windows": 2997,
+  "train_storms": 250,
+  "train_positives": 196,
+  "train_first": 1982,
+  "train_last": 2015,
+  "selection": {
+    "linear": {
+      "dev_mae": 9.293460374314398,
+      "dev_ap": 0.21239662054365951
+    },
+    "boosted": {
+      "dev_mae": 9.718394204824174,
+      "dev_ap": 0.36107174460665
+    },
+    "equal blend": {
+      "dev_mae": 9.291273853768494,
+      "dev_ap": 0.3064366325126254
+    }
+  },
+  "development": {
+    "windows": 818,
+    "storms": 40,
+    "positives": 53,
+    "mae": 9.291273853768503,
+    "rmse": 12.36680918557836,
+    "persistence_mae": 13.41075794621027,
+    "ap": 0.36107174460665,
+    "brier": 0.05100807082928758,
+    "tn": 724,
+    "fp": 41,
+    "fn": 29,
+    "tp": 24,
+    "precision": 0.36923076923076925,
+    "recall": 0.4528301886792453,
+    "f1": 0.4067796610169492,
+    "climatology_brier": 0.06059451787344852,
+    "ri_storms": 10,
+    "ri_storms_detected": 5
+  },
+  "test": {
+    "windows": 876,
+    "storms": 57,
+    "positives": 50,
+    "mae": 9.046398566141306,
+    "rmse": 12.222752667598424,
+    "persistence_mae": 11.757990867579908,
+    "ap": 0.16998812141453762,
+    "brier": 0.05230074934911379,
+    "tn": 781,
+    "fp": 45,
+    "fn": 38,
+    "tp": 12,
+    "precision": 0.21052631578947367,
+    "recall": 0.24,
+    "f1": 0.22429906542056074,
+    "climatology_brier": 0.05388901104327338,
+    "ri_storms": 8,
+    "ri_storms_detected": 3
+  }
+}

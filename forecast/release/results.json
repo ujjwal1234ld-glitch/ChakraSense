@@ -1,0 +1,104 @@
+{
+  "wind": "equal blend",
+  "risk": "boosted",
+  "threshold": 0.23,
+  "selection": {
+    "linear": {
+      "oof_mae": 10.793582345198125,
+      "oof_ap": 0.2354547461941506
+    },
+    "boosted": {
+      "oof_mae": 10.82681575163637,
+      "oof_ap": 0.3979790617558524
+    },
+    "equal blend": {
+      "oof_mae": 10.397486355827132,
+      "oof_ap": 0.3513707098853186
+    }
+  },
+  "train_oof": {
+    "windows": 1265,
+    "storms": 77,
+    "positives": 89,
+    "mae": 10.397486355827125,
+    "rmse": 14.657978674644644,
+    "persistence_mae": 12.61185770750988,
+    "ap": 0.3979790617558524,
+    "brier": 0.05461713656618208,
+    "tn": 1137,
+    "fp": 39,
+    "fn": 54,
+    "tp": 35,
+    "precision": 0.47297297297297297,
+    "recall": 0.39325842696629215,
+    "f1": 0.4294478527607362
+  },
+  "development": {
+    "windows": 90,
+    "storms": 4,
+    "positives": 12,
+    "mae": 15.668475100542835,
+    "rmse": 19.226844895227913,
+    "persistence_mae": 23.377777777777776,
+    "ap": 0.30703800680631343,
+    "brier": 0.11519024830327065,
+    "tn": 68,
+    "fp": 10,
+    "fn": 6,
+    "tp": 6,
+    "precision": 0.375,
+    "recall": 0.5,
+    "f1": 0.42857142857142855
+  },
+  "development_original_endpoints": {
+    "windows": 90,
+    "storms": 4,
+    "positives": 12,
+    "mae": 15.668475100542835,
+    "rmse": 19.226844895227913,
+    "persistence_mae": 23.377777777777776,
+    "ap": 0.30703800680631343,
+    "brier": 0.11519024830327065,
+    "tn": 68,
+    "fp": 10,
+    "fn": 6,
+    "tp": 6,
+    "precision": 0.375,
+    "recall": 0.5,
+    "f1": 0.42857142857142855
+  },
+  "test": {
+    "windows": 150,
+    "storms": 7,
+    "positives": 13,
+    "mae": 14.619166099825561,
+    "rmse": 20.605454421973295,
+    "persistence_mae": 14.54,
+    "ap": 0.1258552830825363,
+    "brier": 0.08548530397894955,
+    "tn": 134,
+    "fp": 3,
+    "fn": 13,
+    "tp": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "test_original_endpoints": {
+    "windows": 150,
+    "storms": 7,
+    "positives": 13,
+    "mae": 14.619166099825561,
+    "rmse": 20.605454421973295,
+    "persistence_mae": 14.54,
+    "ap": 0.1258552830825363,
+    "brier": 0.08548530397894955,
+    "tn": 134,
+    "fp": 3,
+    "fn": 13,
+    "tp": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  }
+}

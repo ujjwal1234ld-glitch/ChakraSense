@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2468 >>
+stream
+0.071 0.200 0.271 rg 0 752 595 90 re f
+BT /F2 10 Tf 0.467 0.843 0.773 rg 1 0 0 1 42 807 Tm (CHAKRASENSE    /    RESEARCH MILESTONE) Tj ET
+BT /F2 23 Tf 1.000 1.000 1.000 rg 1 0 0 1 42 772 Tm (What changes in 24 hours?) Tj ET
+0.12 0.48 0.47 RG 1.5 w 42 44 m 552 44 l S
+BT /F1 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 42 27 Tm (Historical North Indian Ocean cyclone forecasts) Tj ET
+BT /F2 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 440 27 Tm (25 NOV 2026     /     1) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 719 Tm (ChakraSense | Project briefing) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 694 Tm (We forecast tomorrow's wind for a known North Indian Ocean cyclone. We also estimate) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 678 Tm (whether it will gain at least 30 knots. The student prototype replays history so an) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 662 Tm (evaluator can see the forecast before revealing the answer.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 634 Tm (An example from 16 May 2020) Tj ET
+0.071 0.200 0.271 rg 42 602 510 29 re f
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 50 611 Tm (Forecast issued 15:00 UTC) Tj ET
+BT /F2 10 Tf 1.000 1.000 1.000 rg 1 0 0 1 380 611 Tm (Wind) Tj ET
+0.937 0.965 0.957 rg 42 573 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 582 Tm (Wind reported at issue time) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 380 582 Tm (40 kt) Tj ET
+0.882 0.933 0.925 rg 42 544 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 553 Tm (Wind forecast for the following day) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 380 553 Tm (58.8 kt) Tj ET
+0.937 0.965 0.957 rg 42 515 510 29 re f
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 50 524 Tm (Wind recorded 24 hours later) Tj ET
+BT /F1 10 Tf 0.071 0.200 0.271 rg 1 0 0 1 380 524 Tm (75 kt) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 479 Tm (The observed increase was 35 kt. The model's separate RI score crossed its threshold.) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 463 Tm (It detected the rapid increase while still underestimating tomorrow's wind.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 435 Tm (Try the example) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 410 Tm (Open forecast/Replay.html and choose the wind-and-track series. Select the first storm) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 394 Tm (and 16 May 2020, 15:00 UTC. Reveal the recorded wind and compare.      ) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2982 >>
+stream
+0.071 0.200 0.271 rg 0 752 595 90 re f
+BT /F2 10 Tf 0.467 0.843 0.773 rg 1 0 0 1 42 807 Tm (CHAKRASENSE    /    RESEARCH MILESTONE) Tj ET
+BT /F2 23 Tf 1.000 1.000 1.000 rg 1 0 0 1 42 772 Tm (What did we evaluate?) Tj ET
+0.12 0.48 0.47 RG 1.5 w 42 44 m 552 44 l S
+BT /F1 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 42 27 Tm (Historical North Indian Ocean cyclone forecasts) Tj ET
+BT /F2 9 Tf 0.318 0.404 0.451 rg 1 0 0 1 440 27 Tm (25 NOV 2026     /     2) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 719 Tm (Different experiments answer different questions) Tj ET
+0.894 0.949 0.937 rg 42 645 246 55 re f
+BT /F2 12 Tf 0.031 0.420 0.392 rg 1 0 0 1 52 682 Tm (Satellite experiment) Tj ET
+BT /F1 9 Tf 0.110 0.216 0.271 rg 1 0 0 1 52 662 Tm (Nine infrared and water-vapour frames) Tj ET
+0.12 0.48 0.47 RG 1.5 w 165 644 m 165 633 l S
+0.12 0.48 0.47 RG 1.5 w 162 637 m 165 633 l S
+0.12 0.48 0.47 RG 1.5 w 168 637 m 165 633 l S
+0.894 0.949 0.937 rg 306 645 246 55 re f
+BT /F2 12 Tf 0.031 0.420 0.392 rg 1 0 0 1 316 682 Tm (Wind-and-track experiment) Tj ET
+BT /F1 9 Tf 0.110 0.216 0.271 rg 1 0 0 1 316 662 Tm (Wind, pressure, position and coast proximity) Tj ET
+0.12 0.48 0.47 RG 1.5 w 429 644 m 429 633 l S
+0.12 0.48 0.47 RG 1.5 w 426 637 m 429 633 l S
+0.12 0.48 0.47 RG 1.5 w 432 637 m 429 633 l S
+0.894 0.949 0.937 rg 42 577 246 55 re f
+BT /F2 12 Tf 0.031 0.420 0.392 rg 1 0 0 1 52 614 Tm (2015 held-out test) Tj ET
+BT /F1 9 Tf 0.110 0.216 0.271 rg 1 0 0 1 52 594 Tm (150 forecast windows / 7 storms) Tj ET
+0.894 0.949 0.937 rg 306 577 246 55 re f
+BT /F2 12 Tf 0.031 0.420 0.392 rg 1 0 0 1 316 614 Tm (2020-2025 held-out test) Tj ET
+BT /F1 9 Tf 0.110 0.216 0.271 rg 1 0 0 1 316 594 Tm (876 forecast windows / 57 storms) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 552 Tm (Where wind improved) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 527 Tm (The later wind-and-track test reduced mean absolute error from 11.76 kt to 9.05 kt) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 511 Tm (against holding wind constant. The 2015 satellite candidate scored 14.62 kt against) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 495 Tm (14.54 kt for persistence.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 467 Tm (Where the models struggled) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 442 Tm (The track model flagged 12 of 50 rapid-intensification windows and raised 45 false) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 426 Tm (flags. Both tested satellite classifiers missed all 13 positive windows in 2015.) Tj ET
+BT /F2 16 Tf 0.000 0.435 0.408 rg 1 0 0 1 43 398 Tm (What comes next) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 373 Tm (Freeze the next model before evaluating it on a new set of storms. Measure availability) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 357 Tm (of operational inputs. Study environmental features and compare with archived official) Tj ET
+BT /F1 11 Tf 0.110 0.216 0.271 rg 1 0 0 1 44 341 Tm (forecasts.) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000002922 00000 n 
+0000003058 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6092
+%%EOF
