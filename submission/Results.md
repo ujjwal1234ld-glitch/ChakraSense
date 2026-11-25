@@ -4,6 +4,10 @@
 
 Predict the maximum sustained NEWDELHI wind 24 hours after an issue time for an identified North Indian Ocean cyclone. Mark rapid intensification (RI) when the increase is at least 30 kt. All results below are retrospective. The baseline carries the wind at issue forward by 24 hours.
 
+## Planning and development history
+
+The team began with a starter prototype, then moved to real storm observations to test whether cloud structure and recent wind change helped predict the next day. The [original progress report](../research/ChakraSense_Technical_Progress_Report.pdf) records the development work and the data recovery issue at that time. This milestone recovered the original satellite test windows, reproduced the archived classifier, trained a separate track-based model and released an offline replay. The [design diagrams](ChakraSense_Design.pdf) show how each data source becomes a forecast. The [run instructions](../forecast/README.md) cover implementation and independent checks.
+
 ## Data and implementation
 
 The satellite experiment reconstructed 1,505 nine-frame windows from 88 storms. Each window uses two channels on a 128 x 128 grid at three-hour intervals. The reconstruction checked storm IDs, exact frame times, 24-hour future winds and agreement with the archived training and development features. Extra predictors described six- and twelve-hour changes in core cloud temperatures, location, distance to land and wind history. Training used 77 storms. Wind candidates were ridge regression, histogram gradient boosting and their equal-weight average. RI candidates were logistic regression, histogram gradient boosting and their average. Training folds selected the lowest wind MAE, highest RI average precision, and then maximum F1 on a fixed threshold grid from 0.05 to 0.50.

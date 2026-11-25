@@ -1,0 +1,15 @@
+{
+  "confusion_matrix": [
+    [
+      136,
+      1
+    ],
+    [
+      13,
+      0
+    ]
+  ],
+  "score_for_ap_brier": "Regularized",
+  "ap": 0.11121283058915753,
+  "brier": 0.08313566814969683
+}

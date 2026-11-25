@@ -14,7 +14,9 @@
 
 The updated wind-and-track experiment evaluated 876 later windows from 57 storms. Mean absolute wind error was 9.05 kt against 11.76 kt for persistence. It caught 12 of 50 rapid-intensification windows and raised 45 false flags. The archived satellite V3 test detected 0 of 13 and raised one false flag. The V3 development notes below describe the earlier project stage.
 
-## Overview
+Apply the released models with Python using the [four-row examples](forecast/README.md). The [offline replay](forecast/Replay.html) includes all 876 later wind-and-track forecasts and all 150 satellite test forecasts. The [form answers](submission/Form_Answers.md) identify the files to upload and the fields the team must complete.
+
+## Original V3 project overview
 
 ChakraSense is an experimental artificial intelligence
 system designed to forecast tropical cyclone intensity

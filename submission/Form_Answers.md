@@ -15,13 +15,13 @@ ChakraSense has two retrospective forecast paths. One combines nine infrared and
 Upload `ChakraSense_Design.pdf`.
 
 **Q11 · Running implementation**  
-The Python prototype reconstructs historical storm windows, checks the timestamps and future wind labels, trains regression and RI models, and evaluates forecasts on storms from later years. Satellite processing uses NumPy and pandas. The models use scikit-learn. The wind-and-track test covered 876 forecasts across 57 storms in 2020–2025. Average wind error was 9.05 kt, compared with 11.76 kt for holding wind constant. The model detected 12 of 50 RI windows and raised 45 false flags. In the 2015 satellite test, both tested RI models missed all 13 positive windows. Live ingestion and prospective validation remain future work.
+The Python prototype reconstructs historical storm windows, checks the timestamps and future wind labels, trains regression and RI models, and evaluates forecasts on storms from later years. Satellite processing uses NumPy and pandas. The models use scikit-learn. The wind-and-track test covered 876 forecasts across 57 storms in 2020–2025. Average wind error was 9.05 kt, compared with 11.76 kt for holding wind constant. The model detected 12 of 50 RI windows and raised 45 false flags. In the 2015 satellite test, both tested RI models missed all 13 positive windows. Download forecast/Replay.html to inspect all 1,026 test forecasts, or run forecast/predict.py on either included example CSV. Live ingestion and prospective validation remain future work.
 
 **Q12 · Complete project folder**  
 https://github.com/ujjwal1234ld-glitch/ChakraSense/tree/milestone-forecast-evaluation
 
 **Q13 · Reel**  
-Paste the anyone-can-view Drive or unlisted YouTube link and the verified length in seconds. The original 177.8-second explainer exceeds the 150-second limit.
+Reel length: 134 seconds (2 minutes 14 seconds). Upload the delivered ChakraSense_Reel.mp4 to Google Drive, select Anyone with the link and Viewer, and paste that link here with the duration. An unlisted YouTube upload is also accepted.
 
 **Q14 · Supporting document**  
 Technical Report.
