@@ -20,6 +20,8 @@ The Python prototype reconstructs historical storm windows, checks the timestamp
 **Q12 · Complete project folder**  
 https://github.com/ujjwal1234ld-glitch/ChakraSense/tree/milestone-forecast-evaluation
 
+GitHub reports this repository is private. Use the branch link if the evaluator has access. Otherwise extract the delivered ChakraSense_Milestone_Package.zip, upload its ChakraSense folder to Google Drive, choose Anyone with the link and Viewer, and paste the shared folder URL in Q12. Check it opens in a signed-out window.
+
 **Q13 · Reel**  
 Reel length: 134 seconds (2 minutes 14 seconds). Upload the delivered ChakraSense_Reel.mp4 to Google Drive, select Anyone with the link and Viewer, and paste that link here with the duration. An unlisted YouTube upload is also accepted.
 
